@@ -1,0 +1,10 @@
+﻿{
+    "profiles": {
+      "IVRTextEdtor-WASDK (Package)": {
+        "commandName": "MsixPackage"
+      },
+      "IVRTextEdtor-WASDK (Unpackaged)": {
+        "commandName": "Project"
+      }
+    }
+}
